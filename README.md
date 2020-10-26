@@ -1,1 +1,1 @@
-# CP_QRCodeGen
+# CP_TextEditor
